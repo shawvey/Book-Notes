@@ -1,4 +1,8 @@
+
+
 src: [你是怎么看完《JavaScript权威指南》《JavaScript高级程序设计》等这类厚书的?](https://www.zhihu.com/question/32039257/answer/186719859)
+
+
 
 #### 如何阅读高程书🎯
 
@@ -12,7 +16,7 @@ src: [你是怎么看完《JavaScript权威指南》《JavaScript高级程序设
 
 
 
-几个针对性的小建议：
+#### 几个针对性的小建议🤥：
 
 1. 面向对象的程序设计、函数表达式
 
@@ -35,3 +39,6 @@ src: [你是怎么看完《JavaScript权威指南》《JavaScript高级程序设
    然后可以自己尝试封装一个Ajax生成器[ajax 请求封装](https://gist.github.com/yangfch3/4ca039fbaa492b1061a22fdbef4ab367)
 
    至于跨域，大家说是安全限制，你也整天念叨安全限制，那么跨域到底安全问题在哪里？边看边思考，边扩展找资料，这样知识体系才会完整、稳固。
+
+
+

@@ -1,7 +1,7 @@
 {
   "name": "Notes-for-js",
   "version": "1.0.0",
-  "description": "",
+  "description": "高程书阅读笔记📕",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,7 +12,7 @@
     "url": "git+https://github.com/shawvey/Notes-for-js.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "shawvey",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/shawvey/Notes-for-js/issues"
