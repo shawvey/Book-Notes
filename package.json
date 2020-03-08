@@ -1,0 +1,21 @@
+{
+  "name": "Notes-for-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gitbook build ./content ./docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawvey/Notes-for-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shawvey/Notes-for-js/issues"
+  },
+  "homepage": "https://github.com/shawvey/Notes-for-js#readme"
+}
