@@ -1,6 +1,6 @@
 # 目录
 
-* [逼叨叨](README.md)
+* [叨叨两句](README.md)
 * [《JavaScript高级程序设计》](./gcs/index.md)
   * [第1章 JavaScript简介](./gcs/chapter-1.md)
   * [第2章 在HTML中使用JavaScript](./gcs/chapter-2.md)
@@ -17,6 +17,7 @@
   - [第3章 数组](./jssf/chapter-3.md)
   - [第4章 栈](./jssf/chapter-4.md)
   - [第5章 队列和双端队列](./jssf/chapter-5.md)
-
+- [第6章 链表](./jssf/chapter-6.md)
+  
   
 
