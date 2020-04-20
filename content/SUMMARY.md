@@ -15,11 +15,10 @@
 - [《学习JavaScript数据结构与算法》](./jssf/index.md)
 
   * [第3章 数组](./jssf/chapter-3.md)
-  
   * [第4章 栈](./jssf/chapter-4.md)
-
   * [第5章 队列和双端队列](./jssf/chapter-5.md)
-  
+  * [第6章 链表](./jssf/chapter-6.md)
+  * [第7章 集合](./jssf/chapter-7.md)
   * [第6章 链表](./jssf/chapter-6.md)
   
   
